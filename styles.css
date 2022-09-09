@@ -1,0 +1,43 @@
+body{
+  background-color: #f1f2f6e2;
+  text-align: center;
+  padding-bottom: 3%;
+}
+p{
+  font-size: 7rem;
+  font-family: 'Praise', cursive;
+  color: blue;
+  display: inline-block;
+  position: absolute;
+
+
+}
+.change{
+  color: rgba(255, 0, 0, 0.774);
+}
+.invisible{
+  visibility: collapse;
+  position: absolute;
+}
+.ans{
+  font-size: 7rem;
+  color: #d8199cb3;
+  font-weight: bolder;
+  font-family:'Arizonia', cursive;
+}
+.aaa{
+  border-radius: 100%;
+}
+.header{
+  font-size: 7rem;
+  font-family: 'Dancing Script', cursive;
+  margin: 0 1%;
+}
+h1{
+  font-family: 'Caveat', cursive;
+  display: block;
+  color: #c5bc22;
+}
+.abc{
+  margin: 3% 0;
+}
